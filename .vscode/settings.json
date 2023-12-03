@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "coroutine": "cpp",
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
